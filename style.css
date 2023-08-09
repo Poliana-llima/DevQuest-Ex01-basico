@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Montserrat, sans-serif;
+    font-size: 0.95rem;
+}
+
+.inicio {
+    font-size: 20px;
+    background-color: #cff8f8;
+    padding: 15px 0px 0px 25px;
+    margin: 20px 0px 0px 175px;
+    width: 1000px;
+    height: 80px;
+    border-radius: 25px;
+}
+
+.estacao {
+    width: 6rem;
+    height: 6rem;
+    position: relative;
+    bottom: 3rem;
+    right: 2rem;
+}
+
+div {
+    width: 20rem;
+    height: 100%;
+    margin: 5rem 0rem 2rem 2rem;
+    background-color: #cff8f8;
+    color: rgb(64, 33, 94);
+    border-radius: 25px;
+    padding-left: 3.5rem;
+    display: flexbox;
+    float: left;
+}
+
+h2 {
+    padding-bottom: 1rem;
+    font-size: 2rem;
+}
+
+h3, .gasto {
+    padding: 1rem 0rem 1rem 0rem;
+}
